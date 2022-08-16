@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-08-30 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+My first poster abstract "Neuromodulation-dependent correlation levels in neuron ion channel expression result from a competition between passive and active membrane properties" is accepted at [SfN](https://www.sfn.org/) 2021.
