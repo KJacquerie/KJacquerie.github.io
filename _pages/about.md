@@ -11,7 +11,7 @@ profile:
   address: >
     <p>1.15 at Montefiore</p>
     <p>All. de la Découverte 10</p>
-    <p>400 Liège, Belgium</p>
+    <p>4000 Liège, Belgium</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
