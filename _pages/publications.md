@@ -20,3 +20,12 @@ nav_order: 1
 </div>
 
 ## International Conferences
+<!-- _pages/publications.md -->
+<div class="publications">
+
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f conf -q @*[year={{y}}]* %}
+{% endfor %}
+
+</div>
