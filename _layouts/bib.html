@@ -55,7 +55,7 @@
                 {%- endif -%}
               {%- endfor -%}
             {%- endif -%}
-            
+
             {%- if forloop.length > 1 -%}
               {%- if forloop.first == false -%},&nbsp;{%- endif -%}
               {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
@@ -71,7 +71,7 @@
             {%- endif -%}
           {%- endfor -%}
           {%- assign more_authors = author_array_size | minus: author_array_limit -%}
-          
+
           {%- assign more_authors_hide = more_authors | append: " more author" -%}
           {%- if more_authors > 0 -%}
             {%- if more_authors > 1 -%}
@@ -124,11 +124,14 @@
             {{ periodical | strip }}
           </div>
         {%- endif %}
-        
+
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+          {%- endif %}
+          {%- if entry.orbi %}
+            <a href="https://orbi.uliege.be/handle/{{ entry.orbi }}" class="btn btn-sm z-depth-0" role="button">ORBi</a>
           {%- endif %}
           {%- if entry.arxiv %}
             <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
