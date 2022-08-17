@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications by categories in reversed chronological order.
-years: [1967, 1956, 1950, 1935, 1905]
+description: Publications of mine.
+years: [2021, 1967, 1956, 1950, 1935, 1905]
 nav: true
 nav_order: 1
 ---
