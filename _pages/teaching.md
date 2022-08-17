@@ -5,54 +5,10 @@ title: Teaching
 description:
 nav: true
 nav_order: 4
-display_categories: [Teaching assistant, Student Instructor]
-horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
-
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+## Teaching assistant
+- [SYST0003 - Linear Control Systems](https://www.programmes.uliege.be/cocoon/20222023/en/cours/SYST0003-1.html): All course materials can be found on both [G. Drion site](https://sites.google.com/site/gdrion25/teaching/syst0003?authuser=0) and [eCampus](https://www.ecampus.uliege.be/).
+2021 - Now
+- [ELEN0040 - Digital Electronics](https://www.programmes.uliege.be/cocoon/20222023/cours/ELEN0040-1.html): All course materials can be found on [myUliege](https://my.uliege.be/).
+2021 - Now
