@@ -2,11 +2,13 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications of mine.
+description: All of my publications are available at Uliège institutional repository [ORBi](https://orbi.uliege.be/).
 years: [2021]
 nav: true
 nav_order: 1
 ---
+
+# Journal articles
 <!-- _pages/publications.md -->
 <div class="publications">
 
@@ -16,3 +18,5 @@ nav_order: 1
 {% endfor %}
 
 </div>
+
+# International Conferences
