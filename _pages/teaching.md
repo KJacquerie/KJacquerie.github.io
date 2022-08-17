@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 4
 display_categories: [Teaching assistant, Student Instructor]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
