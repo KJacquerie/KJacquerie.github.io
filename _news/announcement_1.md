@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-08-30 15:59:00-0400
+date: 2023-09-18 15:59:00-0400
 inline: true
 ---
 
-My first poster abstract "Neuromodulation-dependent correlation levels in neuron ion channel expression result from a competition between passive and active membrane properties" is accepted at [SfN](https://www.sfn.org/) 2021 :smile:.
+My poster "Neuromodulation and Homeostasis: Complementary Mechanisms in Ion Channel Expression Adaptation for Robust Neural Function" will be presented in Bernstein 2023!
