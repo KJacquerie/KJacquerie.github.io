@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: KATHLEEN
 middle_name:
 last_name: JACQUERIE
-email: kathleen.jacquerie@uliege.be
+email: kathleen.jacquerie@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -68,9 +68,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: KJaquerie # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: FyonArthur # your Twitter handle
-linkedin_username: arthur-fyon-236999216 # your LinkedIn user name
-scholar_userid: nlSPGVUAAAAJ # your Google Scholar ID
+twitter_username: kjacquerie # your Twitter handle
+linkedin_username: kathleen-jacquerie # your LinkedIn user name
+scholar_userid: GQ8KtkwAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -220,8 +220,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Fyon
-  first_name: [Arthur, A.]
+  last_name: Jacquerie
+  first_name: [Kathleen, K.]
 
   style: apa
   locale: en
