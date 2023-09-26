@@ -2,30 +2,42 @@
   type: map
   contents:
     - name: Full Name
-      value: Arthur Fyon
+      value: Kathleen Jacquerie
     - name: Date of Birth
-      value: 12th March 1999
+      value: September 23, 1996
     - name: Languages
-      value: French, English
+      value: French (native), English (proficient), German (beginner)
+
+
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in computational neuroscience
+    - title: PhD in Computational Neuroscience
       institution: University of Liège, Liège, Belgium
-      year: 2021 - Now
-      description:
-        - Uncovering the molecular and cellular mechanisms of reliable neuromodulation in highly heterogenous neurons
-    - title: Master of Science in Biomedical Engineering
+      year: 2018 - 2023
+      description: 
+        - Title Modeling brain-state dependent memory consolidation
+        - Supervisor Guillaume Drion 
+    - title: Master of Science in Electrical Engineering
       institution: University of Liège, Liège, Belgium
-      year: 2019-2021
+      year: 2016 - 2018
       description:
-        - Summa cum laude with congratulations of the jury
+        - Title Sensitivity and robustness analysis of thalamic neuron models at the cellular and network levels
+        - Supervisor Guillaume Drion
+        - Summa Cum Laude
+    - title: Research Internship
+      institution: Cambridge University, Cambridge, United Kingdom
+      year: 2018 - Apr
+      description: 
+        - Title Reduced models of thalamic neurons
+        - Supervisors Timothy O'Leary, Rodolophe Sepulchre
+    - title: Erasmus Exchange
+      institution: Technical University of Munich (TUM), Munich, Germany
+      year: 2018 - Aug
     - title: Bachelor of Science in Engineering
       institution: University of Liège, Liège, Belgium
-      year: 2016-2019
-      description:
-        - Summa cum laude
+      year: 2013 - 2016
 
 - title: Honors and Awards
   type: time_table
