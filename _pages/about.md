@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD candidate in computational neuroscience at ULiège
+subtitle: Postdoctoral researcher
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: KathleenPic.jpg
   image_cicular: false # crops the image to make it circular
   address: #>
     #<p>1.15 at Montefiore</p>
@@ -18,4 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral researcher in Eve Marder's Lab in Boston. I am exploring how neurons switch between different firing activities such as tonic firing to plateau potentials and their impacts on information processing. During my PhD studies in computational neuroscience under the supervision of [Guillaume Drion](https://sites.google.com/site/gdrion25/), I was interested in understanding how rest periods can consolidate our memory. I built biophysical neurons able to switch from learning to resting phase, corresponding to a switch from tonic to burst firing and studied how memory was affected. 
+Welcome to my research journey!
+
+I am a postdoctoral researcher in [Eve Marder's Lab](https://blogs.brandeis.edu/marderlab/) in Boston. I am exploring how neurons switch between different firing activities such as tonic firing to plateau potentials and their impacts on information processing. During my PhD studies in computational neuroscience under the supervision of [Guillaume Drion](https://sites.google.com/site/gdrion25/), I was interested in understanding how rest periods can consolidate our memory. I built biophysical neurons able to switch from learning to resting phase, corresponding to a switch from tonic to burst firing and studied how memory was affected. 
