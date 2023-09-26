@@ -16,52 +16,52 @@
     - title: PhD in Computational Neuroscience
       institution: University of Liège, Liège, Belgium
       year: 2018 - 2023
-      description: 
-        - *Modeling brain-state dependent memory consolidation*
-        - Supervised by Guillaume Drion 
+      #description: 
+      #  - Modeling brain-state dependent memory consolidation
+      #  - Supervised by Guillaume Drion 
     - title: Master of Science in Electrical Engineering
       institution: University of Liège, Liège, Belgium
       year: 2016 - 2018
-      description:
-        - Master thesis *Sensitivity and robustness analysis of thalamic neuron models at the cellular and network levels*
-        - Supervised by Guillaume Drion
-        - Summa Cum Laude
-    - title: Research Internship
-      institution: Cambridge University, Cambridge, United Kingdom
-      year: 2018 - Apr
-      description: 
-        - Title Reduced models of thalamic neurons
-        - Supervisors Timothy O'Leary, Rodolophe Sepulchre
+      #description:
+      #  - Master thesis Sensitivity and robustness analysis of thalamic neuron models at the cellular and network levels
+      #  - Supervised by Guillaume Drion
+      #  - Summa Cum Laude
     - title: Erasmus Exchange
       institution: Technical University of Munich (TUM), Munich, Germany
-      year: 2018 - Aug
+      year: 2018 - Apr
+    - title: Research Internship
+      institution: Cambridge University, Cambridge, United Kingdom
+      year: 2018 - Jan
+      #description: 
+      #  - Reduced models of thalamic neurons
+      #  - Supervised by Timothy O'Leary, Rodolophe Sepulchre
     - title: Bachelor of Science in Engineering
       institution: University of Liège, Liège, Belgium
       year: 2013 - 2016
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2021
-      items:
-        - Best Master Thesis award (AILg 2021)
-    - year: 2016
-      items:
-      - Pisart scolarship
+#- title: Honors and Awards
+#  type: time_table
+#  contents:
+#    - year: 2021
+#      items:
+#        - Best Master Thesis award (AILg 2021)
+#    - year: 2016
+#      items:
+#      - Pisart scolarship
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Dynamical systems in computational neuroscience
-      items:
-        - Neuromodulation
-        - Degeneracy
-    - title: Deep learning
-      items:
-        - Bio-inspired features
-        - Recurrent neural networks
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Dynamical systems in computational neuroscience
+#      items:
+#        - Neuromodulation
+#        - Degeneracy
+#   - title: Deep learning
+#      items:
+#       - Bio-inspired features
+#        - Recurrent neural networks
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Table tennis, Concerts, Beers
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Table tennis, Concerts, Beers
