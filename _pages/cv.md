@@ -1,8 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-title: Curriculum Vitae
+title: CV
 nav: true
 nav_order: 2
-cv_pdf: CV_ARTHUR_FYON.pdf
+cv_pdf: KathleenJacquerie_CV.pdf
 ---
