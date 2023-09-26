@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Kathleen
+first_name: KATHLEEN
 middle_name:
-last_name: Jacquerie
-email: kathleen.jacquerie@gmail.com
+last_name: JACQUERIE
+email: afyon@uliege.be
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -68,10 +68,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: KJaquerie # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: KJacquerie # your Twitter handle
-linkedin_username: kathleen-jacquerie # your LinkedIn user name
-scholar_userid: GQ8KtkwAAAAJ # your Google Scholar ID
-orcid_id: 0000-0002-4435-3057# your ORCID ID
+twitter_username: FyonArthur # your Twitter handle
+linkedin_username: arthur-fyon-236999216 # your LinkedIn user name
+scholar_userid: nlSPGVUAAAAJ # your Google Scholar ID
+orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -100,7 +100,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Kathleen Jacquerie blog # blog_name will be displayed in your blog page
+blog_name: Arthur Fyon blog # blog_name will be displayed in your blog page
 blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
 blog_description: Discover what I say
 permalink: /blog/:year/:title/
@@ -220,8 +220,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Jacquerie
-  first_name: [Kathleen, K.]
+  last_name: Fyon
+  first_name: [Arthur, A.]
 
   style: apa
   locale: en
