@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-09-18 15:59:00-0400
+date: 2023-11-11 15:59:00-0400
 inline: true
 ---
 
-My poster "Neuromodulation and Homeostasis: Complementary Mechanisms in Ion Channel Expression Adaptation for Robust Neural Function" will be presented in Bernstein 2023!
+I am going to Washington DC for presenting a poster on the last results of my PhD project [SfN](https://www.sfn.org/) 2023.
