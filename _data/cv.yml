@@ -8,6 +8,26 @@
     - name: Languages
       value: French (native), English (proficient), German (beginner)
 
+- title: Work experience
+  type: time_table
+  contents: 
+  - title: BAEF Postdoctoral Fellow
+    institution: Brandeis University, Boston, MA, United States
+    year: 2023 - Now
+  - title: FRS-FNRS Research Fellow
+    institution: University of Liège, Liège, Belgium
+    year: 2019 - 2023
+  - title: Teaching Assistant
+    institution: Marine Biological Laboratory, Woods Hole, MA, United States
+    description: 
+      - During one-month summer school called 'Methods in Computational Neuroscience', I supervised projects of PhD students and postdocs.
+    year: 2022 - Au
+  - title: Teaching Assistant
+    institution: University of Liège, Liège, Belgium
+    year: 2018 - 2023
+  - title: Undergraduate Teaching Assistant
+    institution: University of Liège, Liège, Belgium
+    year: 2016 - 2018
 
 
 - title: Education
@@ -39,22 +59,22 @@
       institution: University of Liège, Liège, Belgium
       year: 2013 - 2016
 
-- title: Work experience
-  type: time_table
-  contents: 
-  - title: BAEF Postdoctoral Fellow
-    institution: Brandeis University, Boston, MA, United States
-    year: 2023 - Now
-  - title: FRS-FNRS Research Fellow
-    institution: University of Liège, Liège, Belgium
-    year: 2019 - 2023
-  - title: Teaching Assistant
-    institution: Marine Biological Laboratory, Woods Hole, MA, United States
-    year: 2022 - Au
-  - title: Teaching Assistant
-    institution: University of Liège, Liège, Belgium
-    year: 2018 - 2023
-  - title: Undergraduate Teaching Assistant
-    institution: University of Liège, Liège, Belgium
-    year: 2016 - 2018
 
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items: 
+        - Belgian American Educational Foundation (BAEF) Postdoctoral Fellowship
+        - Wallonie-Bruxelles International (WBI) World Excellence Scholarship
+        - Fulbright Postdoctoral Fellowship (declined for BAEF and WBI)
+    - year: 2019 - 2023
+      items: 
+        - FNRS Research fellowship
+    - year: 2018
+      items:
+        - Best Master Thesis award
+    - year: 2013
+      items:
+      - Pisart Entrance Scolarship from the University of Liege in Faculty of Engineering
