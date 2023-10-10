@@ -90,3 +90,19 @@
       - Mathematical High School Award by the Athénée Royale Air Pur in Liege, Belgium
 
 
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Dynamical systems in computational neuroscience
+      items:
+       - Neuromodulation
+       - Degeneracy
+   - title: Deep learning
+      items:
+       - Bio-inspired features
+        - Recurrent neural networks
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Aerial Sports, Running, Hiking, Traveling
