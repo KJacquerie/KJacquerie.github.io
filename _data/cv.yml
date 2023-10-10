@@ -83,7 +83,7 @@
         - Scholarship award from Marine Biological Laboratory (MBL) in Woods Hole, USA to participate as a student at the summer school ‘Methods in Computational Neuroscience’
     - year: 2018
       items:
-        Best Master Thesis award
+        - Best Master Thesis award
     - year: 2013
       items:
       - Pisart Entrance Scolarship from the University of Liege in Faculty of Engineering
@@ -107,5 +107,3 @@
   type: list
   contents:
     - <u>Hobbies:</u> Aerial Sports, Running, Hiking, Traveling
-
-
