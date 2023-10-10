@@ -27,7 +27,7 @@
       #  - Supervised by Guillaume Drion
       #  - Summa Cum Laude
     - title: Erasmus Exchange
-      institution: Technical University of Munich (TUM), Munich, Germany
+      institution: Technical University of Munich, Munich, Germany
       year: 2018 - Apr
     - title: Research Internship
       institution: Cambridge University, Cambridge, United Kingdom
@@ -39,29 +39,57 @@
       institution: University of Liège, Liège, Belgium
       year: 2013 - 2016
 
-#- title: Honors and Awards
-#  type: time_table
-#  contents:
-#    - year: 2021
-#      items:
-#        - Best Master Thesis award (AILg 2021)
-#    - year: 2016
-#      items:
-#      - Pisart scolarship
+- title: Work experience
+  type: time_table
+  contents: 
+  - title: BAEF Postdoctoral Fellow
+    institution: Brandeis University, Boston, MA, United States
+    year: 2023 - Now
+  - title: FRS-FNRS Research Fellow
+    institution: University of Liège, Liège, Belgium
+    year: 2019 - 2023
+  - title: Teaching Assistant
+    institution: Marine Biological Laboratory, Woods Hole, MA, United States
+    year: 2022 - Au
+  - title: Teaching Assistant
+    institution: University of Liège, Liège, Belgium
+    year: 2018 - 2023
+  - title: Undergraduate Teaching Assistant
+    institution: University of Liège, Liège, Belgium
+    year: 2016 - 2018
 
-#- title: Academic Interests
-#  type: nested_list
-#  contents:
-#    - title: Dynamical systems in computational neuroscience
-#      items:
-#        - Neuromodulation
-#        - Degeneracy
-#   - title: Deep learning
-#      items:
-#       - Bio-inspired features
-#        - Recurrent neural networks
 
-#- title: Other Interests
-#  type: list
-#  contents:
-#    - <u>Hobbies:</u> Table tennis, Concerts, Beers
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items: 
+        - Belgian American Educational Foundation (BAEF) Postdoctoral Fellowship
+        - Wallonie-Bruxelles International (WBI) World Excellence Scholarship
+        - Fulbright Postdoctoral Fellowship (declined for BAEF and WBI)
+    - year: 2019 - 2023
+      items: 
+        - FNRS Research fellowship
+    - year: 2018
+      items:
+        - Best Master Thesis award
+    - year: 2013
+      items:
+      - Pisart Entrance Scolarship from the University of Liege in Faculty of Engineering
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Dynamical systems in computational neuroscience
+      items:
+       - Neuromodulation
+       - Degeneracy
+   - title: Deep learning
+      items:
+       - Bio-inspired features
+        - Recurrent neural networks
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Table tennis, Concerts, Beers
