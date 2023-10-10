@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: All of my publications are available at Uliège institutional repository [ORBi]{https://orbi.uliege.be/profile?uid=p179634}.
+description: All of my publications are available at Uliège institutional repository [ORBi](https://orbi.uliege.be/profile?uid=p179634).
 years: [2023]
 nav: true
 nav_order: 1
