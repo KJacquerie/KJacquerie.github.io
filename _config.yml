@@ -66,7 +66,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: KJaquerie # your GitHub user name
+github_username: KJacquerie # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: kjacquerie # your Twitter handle
 linkedin_username: kathleen-jacquerie # your LinkedIn user name
@@ -100,7 +100,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Arthur Fyon blog # blog_name will be displayed in your blog page
+blog_name: Kathleen Jacquerie blog # blog_name will be displayed in your blog page
 blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
 blog_description: Discover what I say
 permalink: /blog/:year/:title/
