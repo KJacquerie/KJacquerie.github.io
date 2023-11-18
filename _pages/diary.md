@@ -10,14 +10,19 @@ nav_order: 3
 ## Outside academia
 - **Funder of 'Pot'ingé'**
 
+<img align="left" width="200" height="200" src="assets/img/PotingePic.jpg">
+
 In 2019, I co-founded 'Pot'ingé,' a collaborative project initiated by doctoral students at the Faculty of Applied Sciences. Our aim was to promote biodiversity, local supply chains, and sustainability within the university community. We organized conferences and workshops to raise awareness on ecological issues. This initiative involved around thirty dedicated members, and we regularly tended to the plot near the engineering department. For more information, visit [here](https://potinge.be/fr-be/) or follow us on [Facebook](https://www.facebook.com/potinge)  or [Instagram](https://www.instagram.com/pot.inge/?hl=en).
-<img align="left" width="100" height="100" src="assets/img/PotingePic">
+
 This project stands as one of my most significant achievements, marking a pivotal turning point in my life. It served as a profound realization of the urgent need to overhaul our current lifestyle in response to climate change. 
 
 
 - **'My Thesis in 180 seconds'**
+<img align="left" width="200" height="200" src="assets/img/MT180Pic.jpg">
 
-I enthusiastically took part in the French-speaking contest 'My Thesis in 180 Seconds,' presenting and elucidating my research as a PhD student. Watch my presentation on [Youtube](https://www.youtube.com/watch?v=gIfSuxalYPA).
+I enthusiastically took part in the French-speaking contest 'My Thesis in 180 Seconds,' presenting my research in front of a non-specialist audience and a jury. Watch my presentation on [Youtube](https://www.youtube.com/watch?v=gIfSuxalYPA).
+
+I had one month of coaching, learning how to stand on a stage, how to speak clearly and popularize my research. It was a real challenge that I had enjoyed so much. 
 
 
 
