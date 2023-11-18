@@ -10,7 +10,7 @@ nav_order: 3
 ## Outside academia
 - **Funder of 'Pot'ingé'**
 
-<img align="left" width="200" height="200" src="assets/img/PotingePic.jpg">
+<img align="left" width="200" height="200" webp= "-resize 800x" src="/assets/img/PotingePic.jpg">
 
 In 2019, I co-founded 'Pot'ingé,' a collaborative project initiated by doctoral students at the Faculty of Applied Sciences. Our aim was to promote biodiversity, local supply chains, and sustainability within the university community. We organized conferences and workshops to raise awareness on ecological issues. This initiative involved around thirty dedicated members, and we regularly tended to the plot near the engineering department. For more information, visit [here](https://potinge.be/fr-be/) or follow us on [Facebook](https://www.facebook.com/potinge)  or [Instagram](https://www.instagram.com/pot.inge/?hl=en).
 
