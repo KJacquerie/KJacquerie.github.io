@@ -25,8 +25,8 @@ This project stands as one of my most significant achievements, marking a pivota
 I enthusiastically took part in the French-speaking contest 'My Thesis in 180 Seconds,' presenting my research in front of a non-specialist audience and a jury. Watch my presentation on [Youtube](https://www.youtube.com/watch?v=gIfSuxalYPA).
 
 I had one month of coaching, learning how to stand on a stage, how to speak clearly and popularize my research. It was a real challenge that I had enjoyed so much. 
-
-
+<br />
+<br />
 
 ## Academic engagements
 - **Teaching Assistant in Computational Neursience Summer School**
