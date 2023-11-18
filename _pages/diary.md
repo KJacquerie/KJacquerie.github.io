@@ -19,7 +19,8 @@ This project stands as one of my most significant achievements, marking a pivota
 
 - **'My Thesis in 180 seconds'**
 
-<img align="left" width="200" height="200" padding-right=10px src="/assets/img/MT180Pic.jpg">
+<img align="left" width="200" height="200" padding-right=10px src="/assets/img/MT180Pic.jpg"> 
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 I enthusiastically took part in the French-speaking contest 'My Thesis in 180 Seconds,' presenting my research in front of a non-specialist audience and a jury. Watch my presentation on [Youtube](https://www.youtube.com/watch?v=gIfSuxalYPA).
 
