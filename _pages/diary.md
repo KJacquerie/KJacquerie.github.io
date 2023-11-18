@@ -33,6 +33,7 @@ me to continue pursuing an academic career.
 
 
 - ENCODS 2023: European Neuroscience Conference for Doctoral Students
+
 As a selected member of the organizing committee by FENS (Federation of European Neuroscience Societies), I contributed to planning and executing a 2-day conference involving 10 PhD worldwide candidates and Postdocs. This experience offered valuable insights into conference management, including speaker selection, workshop creation, venue preparation, budget management, sponsor acquisition, and more.
 
 
