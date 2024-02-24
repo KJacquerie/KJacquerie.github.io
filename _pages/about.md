@@ -20,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my research journey!
 
-I am a postdoctoral researcher in [Eve Marder's Lab](https://blogs.brandeis.edu/marderlab/) in Boston. I am interested in the effect of climate change on our nervous systems. 
+I am a postdoctoral researcher in [Eve Marder's Lab](https://blogs.brandeis.edu/marderlab/) in Boston. I am interested in the effect of climate change on the nervous systems. 
 
-I did my PhD in computational neuroscience under the supervision of [Guillaume Drion](https://sites.google.com/site/gdrion25/). I investigated how rest periods affect our memory consolidation. I built biophysical neurons able to switch from learning to resting phase, corresponding to a switch from tonic to burst firing and studied the evolution of the synaptic weights. I proposed a mechanism for burst-induced structural plasticity.
+I did my PhD in computational neuroscience under the supervision of [Guillaume Drion](https://sites.google.com/site/gdrion25/). I investigated how rest periods affect our memory consolidation. I built biophysical neurons able to switch from learning to resting phase, corresponding to a switch from tonic to burst firing and studied the evolution of the synaptic weights. I proposed a mechanism for burst-driven late-phase plasticity.

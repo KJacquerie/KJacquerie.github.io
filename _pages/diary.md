@@ -19,7 +19,7 @@ This project stands as one of my most significant achievements, marking a pivota
 
 - **'My Thesis in 180 seconds'**
 
-<img align="left" width="200" height="154"  style="padding-right:30px" src="/assets/img/MT180Pic.jpg"> 
+<img align="left" width="200" height="152"  style="padding-right:30px" src="/assets/img/MT180Pic.jpg"> 
 
 
 I enthusiastically took part in the French-speaking contest 'My Thesis in 180 Seconds,' presenting my research in front of a non-specialist audience and a jury. Watch my presentation on [Youtube](https://www.youtube.com/watch?v=gIfSuxalYPA).
@@ -30,13 +30,22 @@ I had one month of coaching, learning how to stand on a stage, how to speak clea
 
 ## Academic engagements
 - **Teaching Assistant in Computational Neursience Summer School**
+
+<img align="left" width="200" height="150"  style="padding-right:30px" src="/assets/img/WoodsHole.jpg"> 
+
+
 In Summer 2021, I was a TA at the summer school 'Methods in Computational Neuroscience'. I spent one month in Woods Hole, MA, USA to supervise PhD or Postdoc summer projects. Additionnaly, I made workshops and panel discussion about diversity in neuroscience. 
 
 -  **Teaching Assistant in Engineering**
 
+<img align="left" width="200" height="117"  style="padding-right:30px" src="/assets/img/ULiege.jpg"> 
+
 During my PhD program at the University of Liege, I served as a teaching assistant for the course [Introduction to signals and systems](https://www.programmes.uliege.be/cocoon/20232024/cours/SYST0002-2.html). I created an exercise booklet designed to provide students with theoretical reminders and practical case studies. The French version of the booklet is accessible [here](https://orbi.uliege.be/handle/2268/264163).
 
 - **Master thesis supervision**
+
+<img align="left" width="200" height="266"  style="padding-right:30px" src="/assets/img/TFE.jpg"> 
+
 
 I supervised nine master students during their master thesis. They were working on my PhD project or some side-projects close to. It was an very inspiring experience. Their projects not only contributed to my research but also allowed me to enjoy supervising research projects and developing my teaching skills. It has encouraged
 me to continue pursuing an academic career.
