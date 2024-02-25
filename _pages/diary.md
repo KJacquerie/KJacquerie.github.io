@@ -21,7 +21,6 @@ This project stands as one of my most significant achievements, marking a pivota
 
 <img align="left" width="200" height="150"  style="padding-right:30px" src="/assets/img/MT180Pic.jpg"> 
 
-
 I enthusiastically took part in the French-speaking contest 'My Thesis in 180 Seconds,' presenting my research in front of a non-specialist audience and a jury. Watch my presentation on [Youtube](https://www.youtube.com/watch?v=gIfSuxalYPA).
 
 I had one month of coaching, learning how to stand on a stage, how to speak clearly, and popularize my research. It was a real challenge that I had enjoyed so much. 
@@ -30,9 +29,6 @@ I had one month of coaching, learning how to stand on a stage, how to speak clea
 
 ## Academic engagements
 - **Teaching Assistant in Computational Neuroscience Summer School**
-
-<img align="left" width="200" height="150"  style="padding-right:30px" src="/assets/img/WoodsHole.jpg"> 
-
 
 In Summer 2021, I was a TA at the summer school 'Methods in Computational Neuroscience'. I spent one month in Woods Hole, MA, USA to supervise PhD or Postdoc summer projects. Additionally, I made workshops and panel discussions about diversity in neuroscience. 
 <br />
@@ -47,8 +43,6 @@ During my PhD program at the University of Liege, I served as a teaching assista
 <br />
 <br />
 - **Master thesis supervision**
-
-<img align="left" width="200" height="266"  style="padding-right:30px" src="/assets/img/TFE.jpg"> 
 
 
 I supervised nine master students during their master thesis. They were working on my PhD project or some side-projects close to. It was an very inspiring experience. Their projects not only contributed to my research but also allowed me to enjoy supervising research projects and developing my teaching skills. It has encouraged
