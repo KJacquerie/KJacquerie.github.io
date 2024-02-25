@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 ## Outside academia
-- **Funder of 'Pot'ingé'**
+- **Funder of 'Pot'ingé**
 
 <img align="left" width="200" height="200" webp= "-resize 800x" style="padding-right:30px" src="/assets/img/PotingePic.jpg">
 
@@ -17,24 +17,26 @@ In 2019, I co-founded 'Pot'ingé,' a collaborative project initiated by doctoral
 This project stands as one of my most significant achievements, marking a pivotal turning point in my life. It served as a profound realization of the urgent need to overhaul our current lifestyle in response to climate change. 
 
 
-- **'My Thesis in 180 seconds'**
+- **My Thesis in 180 seconds**
 
 <img align="left" width="200" height="150"  style="padding-right:30px" src="/assets/img/MT180Pic.jpg"> 
 
 
 I enthusiastically took part in the French-speaking contest 'My Thesis in 180 Seconds,' presenting my research in front of a non-specialist audience and a jury. Watch my presentation on [Youtube](https://www.youtube.com/watch?v=gIfSuxalYPA).
 
-I had one month of coaching, learning how to stand on a stage, how to speak clearly and popularize my research. It was a real challenge that I had enjoyed so much. 
+I had one month of coaching, learning how to stand on a stage, how to speak clearly, and popularize my research. It was a real challenge that I had enjoyed so much. 
 <br />
 <br />
 
 ## Academic engagements
 - **Teaching Assistant in Computational Neuroscience Summer School**
 
-<img align="left" width="200" height="150"  style="padding-right:30px" src="/assets/img/WoodsHole"> 
+<img align="left" width="200" height="150"  style="padding-right:30px" src="/assets/img/WoodsHole.jpg"> 
 
 
 In Summer 2021, I was a TA at the summer school 'Methods in Computational Neuroscience'. I spent one month in Woods Hole, MA, USA to supervise PhD or Postdoc summer projects. Additionally, I made workshops and panel discussions about diversity in neuroscience. 
+<br />
+<br />
 
 -  **Teaching Assistant in Engineering**
 
@@ -42,6 +44,8 @@ In Summer 2021, I was a TA at the summer school 'Methods in Computational Neuros
 
 During my PhD program at the University of Liege, I served as a teaching assistant for the course [Introduction to Signals and Systems](https://www.programmes.uliege.be/cocoon/20232024/cours/SYST0002-2.html). I created an exercise booklet designed to provide students with theoretical reminders and practical case studies. The French version of the booklet is accessible [here](https://orbi.uliege.be/handle/2268/264163).
 
+<br />
+<br />
 - **Master thesis supervision**
 
 <img align="left" width="200" height="266"  style="padding-right:30px" src="/assets/img/TFE.jpg"> 
