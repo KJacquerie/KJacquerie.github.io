@@ -30,6 +30,8 @@ I had one month of coaching, learning how to stand on a stage, how to speak clea
 ## Academic engagements
 - **Teaching Assistant in Computational Neuroscience Summer School**
 
+<img align="left" width="200" height="117"  style="padding-right:30px" src="/assets/img/WoodsHole.jpg"> 
+
 In Summer 2021, I was a TA at the summer school 'Methods in Computational Neuroscience'. I spent one month in Woods Hole, MA, USA to supervise PhD or Postdoc summer projects. Additionally, I made workshops and panel discussions about diversity in neuroscience. 
 <br />
 <br />
@@ -41,9 +43,8 @@ In Summer 2021, I was a TA at the summer school 'Methods in Computational Neuros
 During my PhD program at the University of Liege, I served as a teaching assistant for the course [Introduction to Signals and Systems](https://www.programmes.uliege.be/cocoon/20232024/cours/SYST0002-2.html). I created an exercise booklet designed to provide students with theoretical reminders and practical case studies. The French version of the booklet is accessible [here](https://orbi.uliege.be/handle/2268/264163).
 
 <br />
-<br />
-- **Master thesis supervision**
 
+- **Master thesis supervision**
 
 I supervised nine master students during their master thesis. They were working on my PhD project or some side-projects close to. It was an very inspiring experience. Their projects not only contributed to my research but also allowed me to enjoy supervising research projects and developing my teaching skills. It has encouraged
 me to continue pursuing an academic career.
