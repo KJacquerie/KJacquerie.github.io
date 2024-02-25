@@ -29,18 +29,18 @@ I had one month of coaching, learning how to stand on a stage, how to speak clea
 <br />
 
 ## Academic engagements
-- **Teaching Assistant in Computational Neursience Summer School**
+- **Teaching Assistant in Computational Neuroscience Summer School**
 
-<img align="left" width="200" height="150"  style="padding-right:30px" src="/assets/img/WoodsHole.jpg"> 
+<img align="left" width="200" height="150"  style="padding-right:30px" src="/assets/img/WoodsHole"> 
 
 
-In Summer 2021, I was a TA at the summer school 'Methods in Computational Neuroscience'. I spent one month in Woods Hole, MA, USA to supervise PhD or Postdoc summer projects. Additionnaly, I made workshops and panel discussion about diversity in neuroscience. 
+In Summer 2021, I was a TA at the summer school 'Methods in Computational Neuroscience'. I spent one month in Woods Hole, MA, USA to supervise PhD or Postdoc summer projects. Additionally, I made workshops and panel discussions about diversity in neuroscience. 
 
 -  **Teaching Assistant in Engineering**
 
 <img align="left" width="200" height="117"  style="padding-right:30px" src="/assets/img/ULiege.jpg"> 
 
-During my PhD program at the University of Liege, I served as a teaching assistant for the course [Introduction to signals and systems](https://www.programmes.uliege.be/cocoon/20232024/cours/SYST0002-2.html). I created an exercise booklet designed to provide students with theoretical reminders and practical case studies. The French version of the booklet is accessible [here](https://orbi.uliege.be/handle/2268/264163).
+During my PhD program at the University of Liege, I served as a teaching assistant for the course [Introduction to Signals and Systems](https://www.programmes.uliege.be/cocoon/20232024/cours/SYST0002-2.html). I created an exercise booklet designed to provide students with theoretical reminders and practical case studies. The French version of the booklet is accessible [here](https://orbi.uliege.be/handle/2268/264163).
 
 - **Master thesis supervision**
 
