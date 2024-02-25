@@ -30,7 +30,7 @@ I had one month of coaching, learning how to stand on a stage, how to speak clea
 ## Academic engagements
 - **Teaching Assistant in Computational Neuroscience Summer School**
 
-<img align="left" width="200" height="117"  style="padding-right:30px" src="/assets/img/Woods.jpg"> 
+<img align="left" width="200" height="117"  style="padding-right:30px" src="/assets/img/woods.jpg"> 
 
 In Summer 2021, I was a TA at the summer school 'Methods in Computational Neuroscience'. I spent one month in Woods Hole, MA, USA to supervise PhD or Postdoc summer projects. Additionally, I made workshops and panel discussions about diversity in neuroscience. 
 <br />
