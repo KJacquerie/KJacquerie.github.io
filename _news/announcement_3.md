@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-03-17 15:59:00-0400
+date: 2024-03-1 15:59:00-0400
 inline: true
 ---
 
-
+Presenting a poster at [Cosyne](https://www.cosyne.org) 2024 in Lisbon.

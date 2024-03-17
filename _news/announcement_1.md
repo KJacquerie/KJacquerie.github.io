@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-11-11 15:59:00-0400
+date: 2024-04-04 15:59:00-0400
 inline: true
 ---
 
-Presenting a poster on the last results of my PhD project at [SfN](https://www.sfn.org/) 2023.
+Interview for [Liege Creative](https://www.liegecreative.be/evenements/progres-en-neurosciences-quelles-complementarites-entre-recherches-computationnelles-et).
